@@ -21,7 +21,7 @@ This repository contains my code practices based on the concepts covered in the 
 In this repository, you will find my implementations of various algorithms and data structures discussed in the book. Each implementation is accompanied by detailed comments explaining the logic and approach used.
 
 ## Table of Contents
-- [binary search](Binary Search.py)
+- [Binary Search](Binary%20Search.py)
 - [Selection Sort](Selection_Sort.py)
 - [Recursion](Recursion.py)
 - [Quicksort](quicksort.py)
