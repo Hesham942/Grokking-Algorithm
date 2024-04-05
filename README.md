@@ -22,10 +22,10 @@ In this repository, you will find my implementations of various algorithms and d
 
 ## Table of Contents
 - [Binary Search](Binary%20Search.py)
-- [Selection Sort](Selection_Sort.py)
+- [Selection Sort](Selection%20Sort.py)
 - [Recursion](Recursion.py)
 - [Quicksort](quicksort.py)
-- [Hash Tables](Hash_Tables.py)
+- [Hash Tables](Hash%20Tables.py)
 
 
 ## Getting Started
